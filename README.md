@@ -1,3 +1,9 @@
+## Tic-Tac-Toe Board
+
+This repo contains code that creates a simple Tic-Tac-Toe board. It allows two participants to play one simple game of Tic-Tac-Toe. Currently modifying code to add more features to the game.
+
+## React description
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
